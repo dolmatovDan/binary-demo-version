@@ -1,0 +1,9 @@
+C:\Users\robot\source\repos\binary\binary\bin\Debug\binary.exe.config
+C:\Users\robot\source\repos\binary\binary\bin\Debug\binary.exe
+C:\Users\robot\source\repos\binary\binary\bin\Debug\binary.pdb
+C:\Users\robot\source\repos\binary\binary\obj\Debug\binary.csprojAssemblyReference.cache
+C:\Users\robot\source\repos\binary\binary\obj\Debug\binary.Form1.resources
+C:\Users\robot\source\repos\binary\binary\obj\Debug\binary.Properties.Resources.resources
+C:\Users\robot\source\repos\binary\binary\obj\Debug\binary.csproj.GenerateResource.cache
+C:\Users\robot\source\repos\binary\binary\obj\Debug\binary.exe
+C:\Users\robot\source\repos\binary\binary\obj\Debug\binary.pdb
